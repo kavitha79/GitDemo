@@ -8,11 +8,19 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("web automation");
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
-		System.out.println("deleteTwitter");	
+		System.out.println("deleteTwitter");
+		System.out.println("elementsui");
 	}
+	@Test
+	public void deleteTwitter1()
+	{
+		System.out.println("Native app android");
+		System.out.println("Native app android");
+}
 }
