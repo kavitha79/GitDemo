@@ -27,6 +27,10 @@ public class SeleniumTest {
 		System.out.println("IOSAPP2");	
 		System.out.println("IOSAPP3");	
 	}
-
+	@Test
+	public void elementsfind()
+	{
+		System.out.println("elementfind");
+		System.out.println("elementfind2");
 	
 }
